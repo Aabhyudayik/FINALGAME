@@ -12,24 +12,27 @@ html, body{
 body{
 	font-family: 'Cairo';
 	margin: 0;
-	background: #222;
+	background: #1a0a00;
 	position:relative;
 }
 #stage{
-	background: #000;
+	background: #0d0500;
 	width:960px; height:540px;
 	position:absolute;
 	margin:auto;
 	top:0; left:0; right:0; bottom:0;
 	cursor: none;
+	border-top: 4px solid #C41E3A;
+	border-bottom: 4px solid #C41E3A;
 }
 .overlay{
 
 	display: none;
 
 	text-align: center;
-	color: #fff;
-	letter-spacing: 1px;
+	color: #FFD700;
+	letter-spacing: 2px;
+	text-shadow: 0 0 12px rgba(255, 215, 0, 0.6);
 
 	width:500px; height:170px;
 
@@ -47,7 +50,7 @@ body{
 }
 #modal_shade{
 	display: none;
-	background: rgba(0,0,0,0.8);
+	background: rgba(139,0,0,0.75);
 	width:960px; height:540px;
 	position:absolute;
 	margin:auto;

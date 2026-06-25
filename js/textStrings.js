@@ -4,56 +4,53 @@
 
 var textStrings_EN = {
 	// Act 1
-	"niceHat": "OOH NICE HAT",
-	"outtaHere": "yeah git on outta here",
-	"getARoom": "GROSS, GO GET A ROOM",
-	"notCoolAnymore": "nvm hats aren't cool anymore",
-	"tvOnTv": "A TV... ON TV!",
-	"cricky": "LIL' CRICKY <3",
-	"tooManyCrickets": "okay that's too many crickets",
-	"normalPeep": "just a normal peep",
-	"normalPeeps": "just some normal peeps",
-	"wowNothing": "WOWWEE, IT'S NOTHING",
+	"niceHat": "WAH KASTO RAMRO TOPI",
+	"outtaHere": "hatt",
+	"getARoom": "CHHI, GETAROOM",
+	"notCoolAnymore": "topi aint cool anymore",
+	"tvOnTv": "TV MA... TV!",
+	"cricky": "SANO JHINGUR <3",
+	"tooManyCrickets": "too many jhingurs",
+	"normalPeep": "normal peep",
+	"normalPeeps": "normal and boring peeps",
+	"wowNothing": " केही ta CHAINA",
 
 	// Act 2
-	"crazySquareAttacks": "CRAZED SQUARE ATTACKS",
-	"justMissed": "oooooh just missed it",
-	"somethingInteresting": "(ya gotta catch 'em doing *something* interesting...)",
+	"crazySquareAttacks": "SQUARE LE GARYO HAMLA",
+	"justMissed": "ooooh just missed it",
+	"somethingInteresting": "(you gotta catch em doing something interesting...)",
 	"whoIsScreaming": "(ya gotta catch who's screaming at 'em)",
-	"circleFearsSquares": "CIRCLE FEARS SQUARES",
+	"circleFearsSquares": "CIRCLE FEARS SQAURE",
 	"whoScaresThem": "(ya gotta also catch *who* they're scared by)",
 	"areTheyScared": "(ya gotta catch 'em *being* scared by a square)", // not used
-	"squaresSnubCircles": "SQUARES SNUB CIRCLES",
-	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
+	"squaresSnubCircles": "SQUARES IGNORES CIRCLES",
+	"areTheySnubbed": "(circle lai ignore garda pakadnu parcha)",
 	"everyoneHates": "EVERYONE HATES EVERYONE!!1!",
 	"almostEveryoneHates": "ALMOST EVERYONE HATES EVERYONE...",
-	"squaresHateCircles": "SQUARES HATE CIRCLES",
-	"circlesHateSquares": "CIRCLES HATE SQUARES",
-	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
-	"nerdsNow": "what are these nerds doing now",
-	"schockedPeep": "why's this peep shocked?",
-	"whatever": "whatever",
+    "squaresHateCircles": "SQUARES HATE CIRCLES",
+    "circlesHateSquares": "CIRCLES HATE SQUARES",
+    "areTheyYelling": "(ya gotta catch 'em *yelling* at others)", 
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "hats ain't cool no more, haven't you heard?",
+	"coolNoMore": "topi ab cool chaina, thaha chaina?",
 	"beScared": "BE SCARED. BE ANGRY.",
 
-	// MANIFESTO
-	"manifesto": [
-		//"as if you viewers want GOOD news"       ,
-		"who tunes in to watch *people get along?*",
-		"peace is boring. violence goes viral.",
-		//"peace is boring. conflict gets clicks." ,
-		"and every story needs a conflict, so...",
-		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-		"GIVE THE AUDIENCE WHAT THEY WANT."
+	 // MANIFESTO
+    "manifesto": [
+        //"as if you viewers want GOOD news"       ,
+        "who tunes in to watch *people get along?*",
+        "peace is boring. violence goes viral.",
+        //"peace is boring. conflict gets clicks." ,
+        "and every story needs a conflict, so...",
+        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+        "GIVE THE AUDIENCE WHAT THEY WANT."
 	],
 
 	// -- Strings currently in graphics resources --
 
 	// (bg_preload.png) Preload screen
-	"playingTime": "playing time: 5 minutes",
+	"playingTime": "playing time: Five minutes",
 	"warning": "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised.",
 
 	// (cam-instructions.png) Camera Instructions
@@ -63,17 +60,17 @@ var textStrings_EN = {
 	"chyronNothing": "WOWWEE, IT'S *NOTHING*",
 
 	// (credits0001.png)
-	"createdBy": "created by",
-	"NickyCase": "Nicky Case",
+	"createdBy": "",
+	"NickyCase": "Remixed by Aabhyu",
 
 	// (credits0002.png)
-	"manyThanks": "many thanks to my playtesters:",
+	"manyThanks": "many thanks to everyone:",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": "and to my patreon supporters:",
+	"patreonSupporters": "",
 
 	// (credits0007.png)
-	"lastButNotLeast": "and last but not least,",
+	"lastButNotLeast": "",
 
 	// (credits0008.png)
 	"thankYouForPlaying": "thank YOU for playing!",
@@ -82,8 +79,8 @@ var textStrings_EN = {
 	"playButton": "PLAY",
 
 	// (end_button.png) Post Credits
-	"otherWorkButton": "see my other work",
-	"buyCoffeeButton": "buy me a coffee",
+	"otherWorkButton": "",
+	"buyCoffeeButton": "",
 	"replayButton": "replay this mess",
 
 	// (logo.png) Post Credits
@@ -98,10 +95,10 @@ var textStrings_EN = {
 	"WSOTATOTSU": "We shape our tools and then our tools shape us.",
 
 	// (quote0003.png)
-	"MarshallMcLuhan": "Marshall McLuhan",
+	"MarshallMcLuhan": "",
 
 	// (quote0004.png)
-	"misatrributed": "(misattributed)",
+	"misatrributed": "",
 };
 
 // Umlaut codes: Ä = \xC4, Ö = \xD6, Ü = \xDC, ä = \xE4, ö = \xF6, ü = \xFC, ß = \x
@@ -168,7 +165,7 @@ var textStrings_DE = {
 
 	// (credits0001.png)
 	"createdBy": "created by", // I'd leave that in English, even for the German translation. /stefan
-	"NickyCase": "Nicky Case", // name; just here in case you want to display text instead of graphic. /stefan
+	"NickyCase": "PEEPS", // name; just here in case you want to display text instead of graphic. /stefan
 
 	// (credits0002.png)
 	"manyThanks": "Vielen Dank an alle Tester:",
@@ -429,7 +426,7 @@ var textStrings_PT_BR = { //I put that way because portuguese from Brazil (PT_BR
 	"wowNothing": "AAAAA, NÃO É NADA",
 
 	// Act 2
-	"crazySquareAttacks": "UM QUADRADO MALUCO ATACOU",
+	"crazySquareAttackss": "UM QUADRADO MALUCO ATACOU",
 	"justMissed": "oooooh perdi isso!",
 	"somethingInteresting": "(você tem que pegá-los fazendo *algo* interessante...)",
 	"whoIsScreaming": "(você tem que pegar quem está gritando pra eles)",
@@ -822,3 +819,6 @@ var textStrings_TR = {
 	// (quote0004.png)
 	"misatrributed": "(yanlış bir şekilde ona atfedilir)",
 };
+
+// Default language used by the game runtime.
+var textStrings = textStrings_EN;

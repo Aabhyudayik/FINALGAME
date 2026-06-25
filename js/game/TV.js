@@ -49,6 +49,18 @@ function TV(scene){
     photoContainer.scale.x = photoContainer.scale.y = conversion;
     g.addChild(photoContainer);
 
+    // Kantipur News Watermark
+    var kantipurLabel = new PIXI.Text("📺 BRANTIPUR", {
+        font: "bold 28px Cairo",
+        fill: "#FF0000",
+        stroke: "#FFFFFF",
+        strokeThickness: 3
+    });
+    kantipurLabel.scale.x = kantipurLabel.scale.y = 0.18;
+    kantipurLabel.x = -37;
+    kantipurLabel.y = -153;
+    g.addChild(kantipurLabel);
+
     // Update
 	self.update = function(){
 		self.updateGraphics();
